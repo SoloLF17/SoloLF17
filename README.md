@@ -2,7 +2,7 @@
 
 # Luiz · Desenvolvedor Python em formação
 
-Construo aplicações e evoluo meus conhecimentos em Python por meio de estudos estruturados e projetos práticos. Atualmente, atuo na **ImovelPericiadoLabs**, no contexto de soluções para o mercado imobiliário e pericial.
+Construo aplicações e evoluo meus conhecimentos em Python por meio de estudos estruturados e projetos práticos. Atualmente, atuo na **AferisAI**, no contexto de soluções para o mercado imobiliário e pericial.
 
 [Experiência](#experiência) · [Projetos](#projetos) · [Formação técnica](#formação-técnica) · [Tecnologias](#tecnologias)
 
@@ -16,11 +16,11 @@ Sou Luiz, desenvolvedor em formação com foco em Python e desenvolvimento backe
 
 ## Experiência
 
-### ImovelPericiadoLabs · Atuação atual
+### AferisAI · Atuação atual
 
 Atuação em projetos ligados ao setor imobiliário e à perícia de imóveis.
 
-[Acessar a organização no GitHub](https://github.com/ImovelPericiadoLabs)
+[Acessar a organização no GitHub](https://github.com/AferisAI)
 
 ## Projetos
 
@@ -63,7 +63,7 @@ Repositório de exercícios e pequenos projetos sobre fundamentos da linguagem, 
 | Ferramentas | Git, uv |
 | Interface | HTML |
 
-As tecnologias listadas refletem os projetos pessoais disponíveis neste perfil. Os repositórios da ImovelPericiadoLabs não puderam ser consultados neste ambiente, então não associei uma stack à organização sem conseguir verificá-la.
+As tecnologias listadas refletem os projetos pessoais disponíveis neste perfil. Os repositórios da AferisAI não puderam ser consultados neste ambiente, então não associei uma stack à organização sem conseguir verificá-la.
 
 ## Objetivos
 
